@@ -1,0 +1,35 @@
+
+.divA {
+    background-color: #ffcc66;
+    width: 500px;
+    height: 500px;
+    
+}
+
+.divB {
+    background-color: #a3ff9e;
+    width: 50%;
+    height: 50%;
+   
+}
+
+.divB p {
+    color: white;
+    background-color: #ff6666;
+    font-size: 20px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+   
+}
+
+.divD {
+    background-color: #b0e2f9;
+    width: 50vw;
+    height: 50vh;
+}
+
+.divE {
+    background-color: #ff9999;
+    width: 75vw;
+    height: 50%;
+}
